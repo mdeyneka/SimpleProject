@@ -1,0 +1,5 @@
+0,Pitt,Wool,0,30
+1,John,Miller,1,3000
+2,Nick,White,0,25
+3,Piter,Connor,0,20
+4,Fler,Puffek,1,3500
